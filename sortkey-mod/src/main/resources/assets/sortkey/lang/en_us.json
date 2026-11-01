@@ -1,0 +1,5 @@
+{
+  "key.category.sortkey.main": "Sort Key",
+  "key.sortkey.sort": "Sort container & inventory",
+  "message.sortkey.cursor_not_empty": "Sort Key: put the item on your cursor down first."
+}
